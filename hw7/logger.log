@@ -1,0 +1,24 @@
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function annotate_downstream_side_inputs at 0x13cc70d30> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function fix_side_input_pcoll_coders at 0x13cc70e50> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function pack_combiners at 0x13cc743a0> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function lift_combiners at 0x13cc74430> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function expand_sdf at 0x13cc745e0> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function expand_gbk at 0x13cc74670> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function sink_flattens at 0x13cc74790> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function greedily_fuse at 0x13cc74820> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function read_to_impulse at 0x13cc748b0> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function impulse_to_input at 0x13cc74940> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function sort_stages at 0x13cc74b80> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function add_impulse_to_dangling_transforms at 0x13cc74ca0> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function setup_timer_mapping at 0x13cc74af0> ====================
+apache_beam.runners.portability.fn_api_runner.translations - INFO - ==================== <function populate_data_channel_coders at 0x13cc74c10> ====================
+apache_beam.runners.worker.statecache - INFO - Creating state cache with size 104857600
+apache_beam.runners.portability.fn_api_runner.worker_handlers - INFO - Created Worker handler <apache_beam.runners.portability.fn_api_runner.worker_handlers.EmbeddedWorkerHandler object at 0x13cd59490> for environment ref_Environment_default_environment_1 (beam:env:embedded_python:v1, b'')
+apache_beam.internal.gcp.auth - INFO - Setting socket default timeout to 60 seconds.
+apache_beam.internal.gcp.auth - INFO - socket default timeout is 60.0 seconds.
+apache_beam.io.gcp.gcsio - INFO - Finished computing file information of: 10000 files
+apache_beam.io.gcp.gcsio - INFO - Finished listing 10000 files in 3.693168878555298 seconds.
+apache_beam.io.filebasedsink - INFO - Starting finalize_write threads with num_shards: 1 (skipped: 0), batches: 1, num_threads: 1
+apache_beam.io.filebasedsink - INFO - Renamed 1 shards in 0.07 seconds.
+apache_beam.io.filebasedsink - INFO - Starting finalize_write threads with num_shards: 1 (skipped: 0), batches: 1, num_threads: 1
+apache_beam.io.filebasedsink - INFO - Renamed 1 shards in 0.00 seconds.
